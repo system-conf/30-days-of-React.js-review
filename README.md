@@ -27,4 +27,4 @@
 27. Gün: Error Boundary - Hata yönetimi için Error Boundaries kullanımı.
 28. Gün: Progressive Enhancement - Progressive Enhancement ve erişilebilirlik.
 29. Gün: Deployment - React uygulamasını Vercel veya Netlify'a deploy etme.
-30. Gün: Proje Güncelleme - Önceki projelere geri dönüp iyileştirmeler yapma.
+30. Gün: Proje Güncelleme - Önceki projelere geri dönüp iyileştirmeler yapma.....
